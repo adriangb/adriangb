@@ -50,15 +50,15 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/tensorflow/tensorflow"><b>TensorFlow</b></a></td>
+      <td><a href="https://github.com/tensorflow/tensorflow/issues?q=author%3Aadriangb"><b>TensorFlow</b></a>/<a href="https://github.com/keras-team/keras/issues?q=author%3Aadriangb"><b>Keras</b></a></td>
       <td>Fixes to model serialization, compatibility with pickling</td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/geopandas/geopandas"><b>GeoPandas</b></a></td>
+      <td><a href="https://github.com/geopandas/geopandas/issues?q=author%3Aadriangb"><b>GeoPandas</b></a></td>
       <td>Multi-backend spatial indexes, nearest neighbor spatial joins</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/danielgtaylor/python-betterproto"><b>BetterProto</b></a></td>
+      <td><a href="https://github.com/danielgtaylor/python-betterproto/issues?q=author%3Aadriangb"><b>BetterProto</b></a></td>
       <td>Rewrote parser to use data driven AST-like approach</td>
     </tr>
   </tbody>
