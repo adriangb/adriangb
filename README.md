@@ -24,11 +24,11 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adriangb/scikeras?style=flat-square&labelColor=343b41"/></td>
    </tr>
    <tr>
-      <td><a href="https://github.com/adriangb/rapi"><b>RAPI</b>: a modern Python web framework</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/adriangb/rapi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/adriangb/rapi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/adriangb/rapi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adriangb/rapi?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/adriangb/xpresso"><b>Xpresso</b>: a modern Python web framework</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/adriangb/xpresso?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/adriangb/xpresso?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/adriangb/xpresso?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adriangb/xpresso?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/adriangb/di"><b>di</b>: pythonic dependency injection</a></td>
