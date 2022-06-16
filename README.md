@@ -57,6 +57,14 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/encode/Starlette/issues?q=author%3Aadriangb"><b>Starlette</b></a></td>
+      <td>Maintainer.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/encode/httpx/issues?q=author%3Aadriangb"><b>httpx</b></a></td>
+      <td>Maintainer. Added headers to multipart requests, fixed various bugs.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/tensorflow/tensorflow/issues?q=author%3Aadriangb"><b>TensorFlow</b></a>/<a href="https://github.com/keras-team/keras/issues?q=author%3Aadriangb"><b>Keras</b></a></td>
       <td>Fixes to model serialization, compatibility with pickling</td>
     </tr>
@@ -67,10 +75,6 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
     <tr>
       <td><a href="https://github.com/danielgtaylor/python-betterproto/issues?q=author%3Aadriangb"><b>BetterProto</b></a></td>
       <td>Rewrote parser to use data driven AST-like approach</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/encode/httpx/issues?q=author%3Aadriangb"><b>httpx</b></a></td>
-      <td>Maintainer. Added headers to multipart requests, fixed various bugs.</td>
     </tr>
   </tbody>
 </table>
