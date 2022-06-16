@@ -57,6 +57,10 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/python/CPython/issues?q=author%3Aadriangb"><b>CPython</b></a></td>
+      <td>Fixed bug in Protocol.__init__. Added logging features.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/encode/Starlette/issues?q=author%3Aadriangb"><b>Starlette</b></a></td>
       <td>Maintainer.</td>
     </tr>
