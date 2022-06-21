@@ -44,6 +44,13 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
       <td><img alt="Issues" src="https://img.shields.io/github/issues/adriangb/graphlib2?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adriangb/graphlib2?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/adriangb/routrie"><b>routrie</b>: fastest Python HTTP router</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/adriangb/routrie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/adriangb/routrie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/adriangb/routrie?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/adriangb/routrie?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
