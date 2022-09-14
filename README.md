@@ -54,7 +54,7 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
   </tbody>
 </table>
 
-<h3>Projects I've contribtued to</h3>
+<h3>Projects I've contributed to</h3>
 <table>
   <thead align="center">
     <tr border: none;>
