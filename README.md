@@ -4,7 +4,7 @@ I'm a passionate open source contributor.
 I mainly work in the Python ecosystem, but I'm currently learning Rust.
 
 
-<h3>My current projects</h3>
+<h3>Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -68,7 +68,7 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
   </tbody>
 </table>
 
-<h3>Projects I've contributed to</h3>
+<h3>Contributions</h3>
 <table>
   <thead align="center">
     <tr border: none;>
