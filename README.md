@@ -77,9 +77,9 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/python/CPython/issues?q=author%3Aadriangb"><b>CPython</b></a></td>
-      <td>Fixed bug in Protocol.__init__. Added logging features.</td>
+   <tr>
+      <td><a href="https://github.com/pydantic/"><b>Pydantic</b></a></td>
+      <td>Maintainer.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/encode/Starlette/issues?q=author%3Aadriangb"><b>Starlette</b></a></td>
@@ -87,11 +87,15 @@ I mainly work in the Python ecosystem, but I'm currently learning Rust.
     </tr>
     <tr>
       <td><a href="https://github.com/encode/httpx/issues?q=author%3Aadriangb"><b>httpx</b></a></td>
-      <td>Maintainer. Added headers to multipart requests, fixed various bugs.</td>
+      <td>Maintainer.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/tensorflow/tensorflow/issues?q=author%3Aadriangb"><b>TensorFlow</b></a>/<a href="https://github.com/keras-team/keras/issues?q=author%3Aadriangb"><b>Keras</b></a></td>
       <td>Fixes to model serialization, compatibility with pickling</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/python/CPython/issues?q=author%3Aadriangb"><b>CPython</b></a></td>
+      <td>Fixed bug in Protocol.__init__. Added logging features.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/geopandas/geopandas/issues?q=author%3Aadriangb"><b>GeoPandas</b></a></td>
