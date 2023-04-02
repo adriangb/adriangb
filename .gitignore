@@ -7,5 +7,7 @@ __pycache__
 !/requirements.txt
 !/README.md
 !/.gitignore
-!/mkdocs.yaml
-!/site
+!/mkdocs.yml
+!/src
+!/.pre-commit-config.yaml
+!/.nojekyll
