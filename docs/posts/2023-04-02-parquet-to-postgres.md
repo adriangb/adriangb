@@ -8,7 +8,9 @@ categories:
 
 # Loading data into Postgres
 
-My last job was at American Family where I was team lead for a property data team. Our data had a wide range of consumers, some of them were data analysts who accessed data via BigQuery while others were ML engineers who trained models off of parquet files in GCS. But most of our users were actually realtime applications serving live humans. As you may know, humans sitting at a keyboard have a pretty short attention span, so low latency was a key requirement for this use case. They also looked up a single address at a time, which would have been expensive and high latency to do via BigQuery or GCS. So we loaded the data into Postgres and served it out from there.
+My last job was at American Family where I was team lead for a property data team. Our data had a wide range of consumers, some of them were data analysts who accessed data via BigQuery while others were ML engineers who trained models off of parquet files in GCS. But most of our users were actually realtime applications serving live humans. As you may know, humans sitting at a keyboard have a pretty short attention span, so low latency was a key requirement for this use case. They also looked up a single address at a time, which would have been expensive and high latency to do via BigQuery or GCS. So we loaded the data into Postgres and served it out from there. So what's the best way to bulk load data into Postgres?
+
+<!-- more -->
 
 But getting data into Postgres from a data warehouse is a non trivial affair. We were cross-cloud so I got to experience the process in both AWS and GCP, here's an overview of what that looks like.
 
