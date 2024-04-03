@@ -1,7 +1,6 @@
 ### 👋 Hi I'm Adrian
 
-I'm a passionate open source contributor.
-I mainly work in the Python ecosystem, but I'm currently learning Rust.
+Python and Rust developer. I work on infrastructure, backend and databases.
 
 
 <h3>Projects</h3>
