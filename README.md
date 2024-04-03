@@ -105,7 +105,7 @@ Python and Rust developer. I work on infrastructure, backend and databases.
       <td>Rewrote parser to use data driven AST-like approach</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/python-poetry/poetry/issues?q=author%3Aadriangb"><b>Poetry (pacakge manager)</b></a></td>
+      <td><a href="https://github.com/python-poetry/poetry/issues?q=author%3Aadriangb"><b>Poetry (package manager)</b></a></td>
       <td>Added CLI options and tweaks to installing to enable use in monorepos with optimal Docker multi-layer caching/td>
     </tr>
   </tbody>
