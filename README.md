@@ -104,6 +104,10 @@ Python and Rust developer. I work on infrastructure, backend and databases.
       <td><a href="https://github.com/danielgtaylor/python-betterproto/issues?q=author%3Aadriangb"><b>BetterProto</b></a></td>
       <td>Rewrote parser to use data driven AST-like approach</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/danielgtaylor/python-betterproto/issues?q=author%3Aadriangb"><b>BetterProto</b></a></td>
+      <td>Added CLI options and tweaks to installing to enable use in monorepos with optimal Docker multi-layer caching/td>
+    </tr>
   </tbody>
 </table>
 
