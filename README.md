@@ -77,7 +77,11 @@ Python and Rust developer. I work on infrastructure, backend and databases.
   </thead>
   <tbody>
    <tr>
-      <td><a href="https://github.com/pydantic/"><b>Pydantic</b></a></td>
+      <td><a href="https://github.com/apache/datafusion/issues?q=author%3Aadriangb"><b>Pydantic</b></a></td>
+      <td>Predicate pruning for LIKE expressions making some queries order of magnitude faster. Several bug fixes and improvements.</td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/pydantic/issues?q=author%3Aadriangb"><b>Pydantic</b></a></td>
       <td>Maintainer.</td>
     </tr>
     <tr>
