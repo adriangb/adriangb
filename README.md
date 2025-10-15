@@ -78,7 +78,7 @@ Python and Rust developer. I work on infrastructure, backend and databases.
   <tbody>
    <tr>
       <td><a href="https://github.com/apache/datafusion/issues?q=author%3Aadriangb"><b>Datafusion</b></a></td>
-      <td>Predicate pruning for LIKE expressions making some queries order of magnitude faster. Several bug fixes and improvements.</td>
+      <td>Predicate pruning for LIKE expressions. Sideways information passing, TopK optimization; made ClickBench 25x faster.</td>
     </tr>
    <tr>
       <td><a href="https://github.com/pydantic/pydantic/issues?q=author%3Aadriangb"><b>Pydantic</b></a></td>
